@@ -1,5 +1,5 @@
 # RetrievalLabs.ai
-
+<!-- 
 ## Knowledge Systems for LLMs
 
 ### Context-aware retrieval and RAG infrastructure for production AI
@@ -42,4 +42,4 @@ For inquiries and partnerships, please reach out through GitHub or visit our web
 
 ---
 
-**RetrievalLabs.ai** - Building the future of AI knowledge systems. ✨
+**RetrievalLabs.ai** - Building the future of AI knowledge systems. ✨ -->
